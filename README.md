@@ -20,7 +20,6 @@ Web developer specialising in **WordPress** and **1С-Битрикс**, with **4
 
 - 🏢 Currently working at **SMA** ([sma-seo.ru](https://sma-seo.ru/)) as a Web Developer
 - ⚡ Achieved **90–95+ PageSpeed scores** on WordPress and **85–90+ on Bitrix** projects
-- 📐 Strict **BEM methodology** advocate
 - 📧 Experience with **responsive email newsletters**
 - 🌍 Available for **remote work** · Open to freelance & full-time
 
