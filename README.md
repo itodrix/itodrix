@@ -9,6 +9,7 @@
                                                 
 </pre>
 
+<div style="display: flex;">
 <p align="right">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/1C--Bitrix%20(D7)-0078D7?style=flat-square" alt="Bitrix D7" />
@@ -26,4 +27,5 @@
   <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
+</div>
 </div>
