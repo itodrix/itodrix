@@ -9,7 +9,7 @@
                                                 
 </pre>
 
-<p align="right">
+<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/1C--Bitrix%20(D7)-0078D7?style=flat-square" alt="Bitrix D7" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
@@ -28,4 +28,4 @@
 </p>
 </div>
 
-## 👋 Hi, I'm Ivan!
+# 👋 Hi, I'm Ivan!
